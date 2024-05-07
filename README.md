@@ -1,4 +1,4 @@
-# EX-10 Implementation of Classical Planning Algorithm.
+# EX-No-10-Implementation of Classical Planning Algorithm.
 
 ### Aim:
 To implement the Classical Planning Algorithm.&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -12,9 +12,9 @@ To implement the Classical Planning Algorithm.&emsp;&emsp;&emsp;&emsp;&emsp;&ems
 
 ### Program:
 
-Developed By: Javith farkhan S
+Developed By: Kersoan P
 
-Register No : 212221240017
+Register No : 212221230050
 
 ```Python
 def is_goal_state(current_state, goal_state):
